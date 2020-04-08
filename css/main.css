@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Tenor Sans', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.homepage {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.text {
+  align-self: center;
+}
+
+.hover {
+  width: 200px;
+  height: 600px;
+}
