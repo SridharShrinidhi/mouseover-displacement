@@ -18,6 +18,6 @@ html {
 }
 
 .hover {
-  width: 200px;
-  height: 600px;
+  width: 100%;
+  height: 40vh;
 }
